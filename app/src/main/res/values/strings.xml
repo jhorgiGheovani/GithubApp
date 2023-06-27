@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="search_hint">Search</string>
+
+    <!--Tab layout name-->
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+
+    <!--  Empty text  -->
+    <string name="empty_text">_</string>
+
+    <string name="followers">%d followers</string>
+    <string name="following">%d following </string>
+
+    <string name="dark_mode">Dark Mode</string>
+</resources>
